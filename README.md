@@ -1,2 +1,2 @@
 # jithin0joy.github.io
-## This is a portfolio created for showcasing the projects i hvae worked on
+## Projects I have worked on in my spare time and learnings!
