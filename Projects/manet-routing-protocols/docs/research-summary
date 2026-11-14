@@ -1,0 +1,23 @@
+# Research summary
+
+## Problem
+
+In infrastructure-less mobile ad-hoc networks, nodes relay packets for one another while the topology changes. Routing decisions can affect reliability, network throughput and latency.
+
+## Compared protocols
+
+| Protocol | Category | Core idea |
+|---|---|---|
+| AODV | Reactive | Discover routes on demand using request/reply messages |
+| OLSR | Proactive | Maintain topology and reduce flooding using multipoint relays |
+| DSDV | Proactive | Maintain distance-vector routing tables with sequence numbers |
+
+## Question
+
+How do AODV, OLSR and DSDV compare on packet delivery, packet loss, throughput and end-to-end delay as network size changes from 20 to 30 to 50 nodes?
+
+## Contribution
+
+A comparative NS-3 simulation study reported at IEEE GCAT 2022. The research is about wireless-network performance; it is **not** an AI or healthcare application.
+
+[IEEE publication](https://ieeexplore.ieee.org/document/9971899/)
