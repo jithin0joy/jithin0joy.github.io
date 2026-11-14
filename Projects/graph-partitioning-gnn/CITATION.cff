@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this repository as an educational reconstruction; it is not a peer-reviewed paper."
+title: "Graph Partitioning and Graph Neural Network Systems: Educational Reconstruction"
+type: software
+authors:
+  - family-names: Joseph
+    given-names: Jithin
+repository-code: "https://github.com/jithin0joy/jithin0joy.github.io"
+abstract: "2026 educational code reconstruction based on a collaborative MCA Semester 3 research project co-authored with Muhammed Nadeem Mohammed Basheer, supervised by Jisha R C."
