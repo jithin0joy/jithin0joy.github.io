@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+cmake-cache/
+*.o
+*.so
+*.a
+*.pcap
+*.tr
+.DS_Store
+Thumbs.db
