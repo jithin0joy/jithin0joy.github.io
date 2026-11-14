@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the published IEEE paper linked in this research repository."
+title: "Comprehensive Study on Mobile Ad-hoc Routing Protocols: OLSR, AODV and DSDV"
+type: conference-paper
+authors:
+  - given-names: Jisha
+    family-names: R C
+  - given-names: Jithin
+    family-names: Joseph
+  - given-names: Muhammed Nadeem
+    family-names: Mohammed Basheer
+year: 2022
+url: "https://ieeexplore.ieee.org/document/9971899/"
